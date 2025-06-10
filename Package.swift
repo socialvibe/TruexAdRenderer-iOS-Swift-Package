@@ -16,8 +16,8 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "TruexAdRenderer-iOS",
-            url: "https://stash.truex.com/integration/TruexAdRenderer-iOS-v3.5.1.zip",
-            checksum: "ece9f169fd8e79de95fe0d1e8dfa3c1cb9f237a0075ff9513d5632e5e684826a"
+            url: "https://stash.truex.com/integration/TruexAdRenderer-iOS-v4.1.0.zip",
+            checksum: "7e1ae6614ca8341fa584c401be76f3447792c922f9fcb30b1190987d7cbf6514"
         )
     ]
 )
